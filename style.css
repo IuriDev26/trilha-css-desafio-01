@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-image: url('assets/images/banner.png'), linear-gradient(to top, #000000,  #31A8DD, #000000);
+    text-align: center;
+    margin: 0;
+}
+
+.banner-content{
+    width: 510px;
+    height: 393px;
+    margin: auto;
+
+}
+
+
+header div h1{
+   font-family: 'Raleway';
+   font-weight: 900;
+   font-size: 40px;
+   line-height: 49.96px;
+   text-transform: uppercase;
+   background: linear-gradient(#33A8DB, #1472B7);
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;
+}
+
+header div p{
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.48px;
+    text-align: center;
+}
+
+.logo{
+    margin-top: 56px;
+}
+
